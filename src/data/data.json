@@ -1,0 +1,44 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name": "Sindhuja Puvvula",
+                "role":" Skill Trainer ",
+                "email":"sindhuja.puvvulaiiit662@gmail.com",
+                "mobile":"+91 9951676604"
+            },
+
+            "Certifications":{
+                "python":"Coursera Python for Everybody",
+                "datascience":"Coursera Datascience Specalisation",
+                "machine":"Data Science and Machine Learning Certification in Udemy"
+            },
+
+            "techinical":{
+                "tech1":"Python",
+                "tech2":"Data Science",
+                "tech3":"Machine Learning",
+                "tech4":"Data Base Management System",
+                "tech5":"HTML CSS ReactJs",
+                "tech6":"C-Language"
+
+            },
+
+            "Education":[
+                {
+                    "Degree":"B-tech(CSE)",
+                    "Instution":"RGUKT Nuzividu"
+                },
+                {
+                    "Degree":"Pre University Course (PCU)",
+                    "Instution":"RGUKT Nuzividu"
+                },
+                {
+                    "Degree":"SSC",
+                    "Instution":" B.V.R.Z.P. High School"
+                }
+            ]
+        
+        }
+    ]
+}
